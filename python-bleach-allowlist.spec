@@ -1,6 +1,6 @@
 Name:		python-bleach-allowlist
 Version:	1.0.3
-Release:	1
+Release:	2
 Summary:	Curated lists of tags and attributes for sanitizing html
 License:	BSD-3-Clause
 Group:		Development/Python
